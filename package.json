@@ -1,0 +1,24 @@
+{
+  "name": "e-com-app",
+  "version": "2.0.0",
+  "description": "eCommerce Application with MERN stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node back-end/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomahawk360/e-com-app-2.0.git"
+  },
+  "author": "Ignacio Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomahawk360/e-com-app-2.0/issues"
+  },
+  "homepage": "https://github.com/tomahawk360/e-com-app-2.0#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
